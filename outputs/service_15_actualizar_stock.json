@@ -1,0 +1,58 @@
+{
+  "id_consulta": "CNUEVA001",
+  "actualizacion_exitosa": true,
+  "productos_antes": [
+    {
+      "id_producto": "PRX003",
+      "nombre": "Vacuna antirrabica",
+      "categoria": "Vacuna",
+      "unidades": 120,
+      "precio_unit": 2200.0,
+      "vencimiento": "2027-05-01",
+      "proveedor": "BioVet"
+    },
+    {
+      "id_producto": "PRX005",
+      "nombre": "Gasas esteriles",
+      "categoria": "Insumo",
+      "unidades": 200,
+      "precio_unit": 300.0,
+      "vencimiento": "2028-03-15",
+      "proveedor": "MedVet"
+    }
+  ],
+  "movimientos": [
+    {
+      "id_producto": "PRX003",
+      "cantidad_decrementada": 2,
+      "unidades_antes": 120,
+      "unidades_despues": 118
+    },
+    {
+      "id_producto": "PRX005",
+      "cantidad_decrementada": 5,
+      "unidades_antes": 200,
+      "unidades_despues": 195
+    }
+  ],
+  "productos_despues": [
+    {
+      "id_producto": "PRX003",
+      "nombre": "Vacuna antirrabica",
+      "categoria": "Vacuna",
+      "unidades": 118,
+      "precio_unit": 2200.0,
+      "vencimiento": "2027-05-01",
+      "proveedor": "BioVet"
+    },
+    {
+      "id_producto": "PRX005",
+      "nombre": "Gasas esteriles",
+      "categoria": "Insumo",
+      "unidades": 195,
+      "precio_unit": 300.0,
+      "vencimiento": "2028-03-15",
+      "proveedor": "MedVet"
+    }
+  ]
+}

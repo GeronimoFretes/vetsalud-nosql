@@ -1,0 +1,306 @@
+[
+  {
+    "id_paciente": "P008",
+    "especie": "Ave",
+    "raza": "Cacatúa",
+    "fecha_nac": "2021-03-22T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C006",
+      "nombre": "Tomás",
+      "apellido": "Juárez",
+      "dni": "42345678",
+      "email": "tomas@gmail.com",
+      "telefono": "1190006789",
+      "ciudad": "Salta",
+      "provincia": "Salta",
+      "activo": true
+    },
+    "nombre_paciente": "Bambú"
+  },
+  {
+    "id_paciente": "PEX006",
+    "especie": "Conejo",
+    "raza": "Mini lop",
+    "fecha_nac": "2021-07-07T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA004",
+      "nombre": "Diego",
+      "apellido": "Romero",
+      "dni": "35666777",
+      "email": "diego.romero@email.com",
+      "telefono": "1155667788",
+      "ciudad": "La Plata",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Coco"
+  },
+  {
+    "id_paciente": "PEX010",
+    "especie": "Gato",
+    "raza": "Persa",
+    "fecha_nac": "2019-09-30T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA008",
+      "nombre": "Andres",
+      "apellido": "Rivas",
+      "dni": "31555444",
+      "email": "andres.rivas@email.com",
+      "telefono": "1199001122",
+      "ciudad": "Quilmes",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Felix"
+  },
+  {
+    "id_paciente": "P001",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "fecha_nac": "2019-04-12T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C001",
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "dni": "30456789",
+      "email": "ana@gmail.com",
+      "telefono": "1145001234",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Firulais"
+  },
+  {
+    "id_paciente": "PEX008",
+    "especie": "Perro",
+    "raza": "Border Collie",
+    "fecha_nac": "2020-10-18T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA006",
+      "nombre": "Federico",
+      "apellido": "Lopez",
+      "dni": "33111222",
+      "email": "federico.lopez@email.com",
+      "telefono": "1177889900",
+      "ciudad": "Moron",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "India"
+  },
+  {
+    "id_paciente": "P006",
+    "especie": "Gato",
+    "raza": "Persa",
+    "fecha_nac": "2023-01-17T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C005",
+      "nombre": "Paula",
+      "apellido": "Sosa",
+      "dni": "38012345",
+      "email": "paula@gmail.com",
+      "telefono": "1189005678",
+      "ciudad": "La Plata",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Luna"
+  },
+  {
+    "id_paciente": "PEX003",
+    "especie": "Gato",
+    "raza": "Siames",
+    "fecha_nac": "2020-08-09T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA002",
+      "nombre": "Martin",
+      "apellido": "Arias",
+      "dni": "38999888",
+      "email": "martin.arias@email.com",
+      "telefono": "1133445566",
+      "ciudad": "San Isidro",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Luna"
+  },
+  {
+    "id_paciente": "P002",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "fecha_nac": "2021-07-03T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C002",
+      "nombre": "Roberto",
+      "apellido": "Díaz",
+      "dni": "27654321",
+      "email": "rob@gmail.com",
+      "telefono": "1156002345",
+      "ciudad": "Rosario",
+      "provincia": "Santa Fe",
+      "activo": true
+    },
+    "nombre_paciente": "Michi"
+  },
+  {
+    "id_paciente": "PEX001",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "fecha_nac": "2019-05-14T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA001",
+      "nombre": "Lucia",
+      "apellido": "Benitez",
+      "dni": "40111222",
+      "email": "lucia.benitez@email.com",
+      "telefono": "1122334455",
+      "ciudad": "CABA",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Mora"
+  },
+  {
+    "id_paciente": "PEX005",
+    "especie": "Gato",
+    "raza": "Europeo comun",
+    "fecha_nac": "2022-01-12T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA003",
+      "nombre": "Carolina",
+      "apellido": "Mendez",
+      "dni": "37123456",
+      "email": "carolina.mendez@email.com",
+      "telefono": "1144556677",
+      "ciudad": "Tigre",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Nina"
+  },
+  {
+    "id_paciente": "P004",
+    "especie": "Conejo",
+    "raza": "Angora",
+    "fecha_nac": "2022-02-14T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C003",
+      "nombre": "Valentina",
+      "apellido": "Molina",
+      "dni": "41234567",
+      "email": "vale@gmail.com",
+      "telefono": "1167003456",
+      "ciudad": "Córdoba",
+      "provincia": "Córdoba",
+      "activo": true
+    },
+    "nombre_paciente": "Nube"
+  },
+  {
+    "id_paciente": "P007",
+    "especie": "Perro",
+    "raza": "Poodle",
+    "fecha_nac": "2017-06-30T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C002",
+      "nombre": "Roberto",
+      "apellido": "Díaz",
+      "dni": "27654321",
+      "email": "rob@gmail.com",
+      "telefono": "1156002345",
+      "ciudad": "Rosario",
+      "provincia": "Santa Fe",
+      "activo": true
+    },
+    "nombre_paciente": "Pipo"
+  },
+  {
+    "id_paciente": "P005",
+    "especie": "Perro",
+    "raza": "Pastor Alemán",
+    "fecha_nac": "2020-09-08T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "C004",
+      "nombre": "Diego",
+      "apellido": "Herrera",
+      "dni": "35789012",
+      "email": "diego@gmail.com",
+      "telefono": "1178004567",
+      "ciudad": "Mendoza",
+      "provincia": "Mendoza",
+      "activo": true
+    },
+    "nombre_paciente": "Rex"
+  },
+  {
+    "id_paciente": "PEX004",
+    "especie": "Perro",
+    "raza": "Bulldog",
+    "fecha_nac": "2018-11-02T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA003",
+      "nombre": "Carolina",
+      "apellido": "Mendez",
+      "dni": "37123456",
+      "email": "carolina.mendez@email.com",
+      "telefono": "1144556677",
+      "ciudad": "Tigre",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Roco"
+  },
+  {
+    "id_paciente": "PEX007",
+    "especie": "Gato",
+    "raza": "Maine Coon",
+    "fecha_nac": "2017-04-01T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA005",
+      "nombre": "Paula",
+      "apellido": "Suarez",
+      "dni": "34987654",
+      "email": "paula.suarez@email.com",
+      "telefono": "1166778899",
+      "ciudad": "CABA",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Simba"
+  },
+  {
+    "id_paciente": "PEX002",
+    "especie": "Perro",
+    "raza": "Caniche",
+    "fecha_nac": "2021-03-20T00:00:00",
+    "activo": true,
+    "propietario": {
+      "id_propietario": "PRA001",
+      "nombre": "Lucia",
+      "apellido": "Benitez",
+      "dni": "40111222",
+      "email": "lucia.benitez@email.com",
+      "telefono": "1122334455",
+      "ciudad": "CABA",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "nombre_paciente": "Tango"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id_consulta": "CEX003",
+    "fecha": "2026-06-05T07:23:19.877000",
+    "motivo": "Control cardiologico",
+    "tipo_consulta": "Control",
+    "diagnostico": "Soplo leve",
+    "costo": 4900.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "VEX003",
+      "nombre": "Camila",
+      "apellido": "Ojeda",
+      "matricula": "MN9003",
+      "especialidad": "Cardiologia",
+      "sucursal": "Palermo"
+    },
+    "paciente": {
+      "id_paciente": "PEX003",
+      "nombre": "Luna",
+      "especie": "Gato",
+      "raza": "Siames"
+    }
+  },
+  {
+    "id_consulta": "CEX002",
+    "fecha": "2026-06-03T07:23:19.877000",
+    "motivo": "Picazon persistente",
+    "tipo_consulta": "Otra",
+    "diagnostico": "Dermatitis",
+    "costo": 7600.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "VEX002",
+      "nombre": "Bruno",
+      "apellido": "Salvatierra",
+      "matricula": "MN9002",
+      "especialidad": "Dermatologia",
+      "sucursal": "Belgrano"
+    },
+    "paciente": {
+      "id_paciente": "PEX002",
+      "nombre": "Tango",
+      "especie": "Perro",
+      "raza": "Caniche"
+    }
+  },
+  {
+    "id_consulta": "CEX009",
+    "fecha": "2026-05-22T07:23:19.877000",
+    "motivo": "Lesion en piel",
+    "tipo_consulta": "Otra",
+    "diagnostico": "Dermatitis",
+    "costo": 7300.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "VEX009",
+      "nombre": "Agustina",
+      "apellido": "Luna",
+      "matricula": "MN9009",
+      "especialidad": "Dermatologia",
+      "sucursal": "Caballito"
+    },
+    "paciente": {
+      "id_paciente": "PEX010",
+      "nombre": "Felix",
+      "especie": "Gato",
+      "raza": "Persa"
+    }
+  },
+  {
+    "id_consulta": "CEX006",
+    "fecha": "2026-05-12T07:23:19.877000",
+    "motivo": "Diarrea",
+    "tipo_consulta": "Otra",
+    "diagnostico": "Gastritis",
+    "costo": 6500.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "VEX006",
+      "nombre": "Tomas",
+      "apellido": "Ibarra",
+      "matricula": "MN9006",
+      "especialidad": "Clinica general",
+      "sucursal": "Belgrano"
+    },
+    "paciente": {
+      "id_paciente": "PEX006",
+      "nombre": "Coco",
+      "especie": "Conejo",
+      "raza": "Mini lop"
+    }
+  },
+  {
+    "id_consulta": "CON005",
+    "fecha": "2025-11-10T00:00:00",
+    "motivo": "Vómitos recurrentes",
+    "tipo_consulta": "Otra",
+    "diagnostico": "Gastritis",
+    "costo": 5500.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "V005",
+      "nombre": "Lorena",
+      "apellido": "Ibáñez",
+      "matricula": "VET-0089",
+      "especialidad": "Clínica General",
+      "sucursal": "Caballito"
+    },
+    "paciente": {
+      "id_paciente": "P005",
+      "nombre": "Rex",
+      "especie": "Perro",
+      "raza": "Pastor Alemán"
+    }
+  },
+  {
+    "id_consulta": "CON004",
+    "fecha": "2025-11-01T00:00:00",
+    "motivo": "Pérdida de apetito",
+    "tipo_consulta": "Otra",
+    "diagnostico": "Estrés ambiental",
+    "costo": 3800.0,
+    "estado": "Seguimiento",
+    "veterinario": {
+      "id_vet": "V001",
+      "nombre": "Gabriela",
+      "apellido": "Fontana",
+      "matricula": "VET-0041",
+      "especialidad": "Clínica General",
+      "sucursal": "Palermo"
+    },
+    "paciente": {
+      "id_paciente": "P004",
+      "nombre": "Nube",
+      "especie": "Conejo",
+      "raza": "Angora"
+    }
+  }
+]

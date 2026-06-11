@@ -1,0 +1,121 @@
+[
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "V001",
+        "nombre": "Gabriela",
+        "apellido": "Fontana",
+        "especialidad": "Clínica General"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 2,
+    "id_paciente": "P001",
+    "nombre": "Firulais",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "VEX001",
+        "nombre": "Ana",
+        "apellido": "Pereyra",
+        "especialidad": "Clinica general"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "PEX008",
+    "nombre": "India",
+    "especie": "Perro",
+    "raza": "Border Collie",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "V003",
+        "nombre": "Cecilia",
+        "apellido": "Ríos",
+        "especialidad": "Dermatología"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "P006",
+    "nombre": "Luna",
+    "especie": "Gato",
+    "raza": "Persa",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "VEX003",
+        "nombre": "Camila",
+        "apellido": "Ojeda",
+        "especialidad": "Cardiologia"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "PEX003",
+    "nombre": "Luna",
+    "especie": "Gato",
+    "raza": "Siames",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "V003",
+        "nombre": "Cecilia",
+        "apellido": "Ríos",
+        "especialidad": "Dermatología"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "P002",
+    "nombre": "Michi",
+    "especie": "Gato",
+    "raza": "Siamés",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "VEX001",
+        "nombre": "Ana",
+        "apellido": "Pereyra",
+        "especialidad": "Clinica general"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "PEX001",
+    "nombre": "Mora",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  },
+  {
+    "veterinarios_que_lo_atendieron": [
+      {
+        "id_vet": "V001",
+        "nombre": "Gabriela",
+        "apellido": "Fontana",
+        "especialidad": "Clínica General"
+      }
+    ],
+    "cantidad_consultas_en_sucursal": 1,
+    "id_paciente": "P004",
+    "nombre": "Nube",
+    "especie": "Conejo",
+    "raza": "Angora",
+    "activo": true,
+    "sucursal_consultada": "Palermo"
+  }
+]

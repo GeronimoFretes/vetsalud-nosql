@@ -1,0 +1,83 @@
+[
+  {
+    "id_propietario": "PRA009",
+    "nombre": "Valentina",
+    "apellido": "Castro",
+    "dni": "30999111",
+    "email": "valentina.castro@email.com",
+    "telefono": "1100112233",
+    "ciudad": "CABA",
+    "provincia": "Buenos Aires",
+    "cantidad_pacientes": 0,
+    "pacientes": []
+  },
+  {
+    "id_propietario": "PRA010",
+    "nombre": "Nicolas",
+    "apellido": "Ferreyra",
+    "dni": "29888777",
+    "email": "nicolas.ferreyra@email.com",
+    "telefono": "1111223344",
+    "ciudad": "Vicente Lopez",
+    "provincia": "Buenos Aires",
+    "cantidad_pacientes": 0,
+    "pacientes": []
+  },
+  {
+    "id_propietario": "C006",
+    "nombre": "Tomás",
+    "apellido": "Juárez",
+    "dni": "42345678",
+    "email": "tomas@gmail.com",
+    "telefono": "1190006789",
+    "ciudad": "Salta",
+    "provincia": "Salta",
+    "cantidad_pacientes": 1,
+    "pacientes": [
+      {
+        "id_paciente": "P008",
+        "nombre": "Bambú",
+        "especie": "Ave",
+        "activo": true
+      }
+    ]
+  },
+  {
+    "id_propietario": "PRA006",
+    "nombre": "Federico",
+    "apellido": "Lopez",
+    "dni": "33111222",
+    "email": "federico.lopez@email.com",
+    "telefono": "1177889900",
+    "ciudad": "Moron",
+    "provincia": "Buenos Aires",
+    "cantidad_pacientes": 1,
+    "pacientes": [
+      {
+        "id_paciente": "PEX008",
+        "nombre": "India",
+        "especie": "Perro",
+        "activo": true
+      }
+    ]
+  },
+  {
+    "id_propietario": "PRA007",
+    "nombre": "Sofia",
+    "apellido": "Nuñez",
+    "dni": "32777111",
+    "email": "sofia.nunez@email.com",
+    "telefono": "1188990011",
+    "ciudad": "CABA",
+    "provincia": "Buenos Aires",
+    "cantidad_pacientes": 1,
+    "pacientes": [
+      {
+        "id_paciente": "PEX009",
+        "nombre": "Olivia",
+        "especie": "Perro",
+        "activo": false
+      }
+    ]
+  }
+]

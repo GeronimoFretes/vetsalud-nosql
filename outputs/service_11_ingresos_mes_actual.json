@@ -1,0 +1,74 @@
+[
+  {
+    "ingresos_totales": 8800.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Esteban",
+      "apellido": "Molina",
+      "matricula": "MN9004",
+      "especialidad": "Cirugia",
+      "sucursal": "Recoleta"
+    },
+    "id_vet": "VEX004"
+  },
+  {
+    "ingresos_totales": 7600.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Bruno",
+      "apellido": "Salvatierra",
+      "matricula": "MN9002",
+      "especialidad": "Dermatologia",
+      "sucursal": "Belgrano"
+    },
+    "id_vet": "VEX002"
+  },
+  {
+    "ingresos_totales": 4900.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Camila",
+      "apellido": "Ojeda",
+      "matricula": "MN9003",
+      "especialidad": "Cardiologia",
+      "sucursal": "Palermo"
+    },
+    "id_vet": "VEX003"
+  },
+  {
+    "ingresos_totales": 4700.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Pedro",
+      "apellido": "Vera",
+      "matricula": "MN9010",
+      "especialidad": "Neurologia",
+      "sucursal": "Belgrano"
+    },
+    "id_vet": "VEX010"
+  },
+  {
+    "ingresos_totales": 4200.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Ana",
+      "apellido": "Pereyra",
+      "matricula": "MN9001",
+      "especialidad": "Clinica general",
+      "sucursal": "Palermo"
+    },
+    "id_vet": "VEX001"
+  },
+  {
+    "ingresos_totales": 3900.0,
+    "cantidad_consultas": 1,
+    "veterinario": {
+      "nombre": "Julieta",
+      "apellido": "Campos",
+      "matricula": "MN9005",
+      "especialidad": "Vacunacion",
+      "sucursal": "Caballito"
+    },
+    "id_vet": "VEX005"
+  }
+]

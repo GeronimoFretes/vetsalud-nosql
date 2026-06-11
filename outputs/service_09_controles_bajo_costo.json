@@ -1,0 +1,79 @@
+[
+  {
+    "id_consulta": "CON007",
+    "id_paciente": "P001",
+    "id_vet": "V001",
+    "fecha": "2025-12-02T00:00:00",
+    "motivo": "Control post-vacuna",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sin novedades",
+    "costo": 2000.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CEX008",
+    "id_paciente": "PEX008",
+    "id_vet": "VEX001",
+    "fecha": "2025-05-07T07:23:19.877000",
+    "motivo": "Control anual",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 3600.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CEX005",
+    "id_paciente": "PEX005",
+    "id_vet": "VEX005",
+    "fecha": "2026-06-04T00:00:00",
+    "motivo": "Control post vacuna",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 3900.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CEX001",
+    "id_paciente": "PEX001",
+    "id_vet": "VEX001",
+    "fecha": "2026-06-01T07:23:19.877000",
+    "motivo": "Control general",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 4200.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CON001",
+    "id_paciente": "P001",
+    "id_vet": "V001",
+    "fecha": "2025-10-05T00:00:00",
+    "motivo": "Control anual",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 4500.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CEX010",
+    "id_paciente": "PEX001",
+    "id_vet": "VEX010",
+    "fecha": "2026-06-06T00:00:00",
+    "motivo": "Control neurologico",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 4700.0,
+    "estado": "Cerrada"
+  },
+  {
+    "id_consulta": "CEX003",
+    "id_paciente": "PEX003",
+    "id_vet": "VEX003",
+    "fecha": "2026-06-05T07:23:19.877000",
+    "motivo": "Control cardiologico",
+    "tipo_consulta": "Control",
+    "diagnostico": "Soplo leve",
+    "costo": 4900.0,
+    "estado": "Seguimiento"
+  }
+]

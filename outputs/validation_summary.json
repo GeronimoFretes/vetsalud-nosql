@@ -1,0 +1,248 @@
+{
+  "total_checks": 30,
+  "passed_checks": 30,
+  "failed_checks": 0,
+  "all_checks_passed": true,
+  "checks": [
+    {
+      "name": "MongoDB collection 'propietarios' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "propietarios",
+        "actual_count": 17,
+        "minimum_expected": 16
+      }
+    },
+    {
+      "name": "MongoDB collection 'pacientes' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "pacientes",
+        "actual_count": 18,
+        "minimum_expected": 18
+      }
+    },
+    {
+      "name": "MongoDB collection 'veterinarios' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "veterinarios",
+        "actual_count": 15,
+        "minimum_expected": 15
+      }
+    },
+    {
+      "name": "MongoDB collection 'consultas' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "consultas",
+        "actual_count": 19,
+        "minimum_expected": 18
+      }
+    },
+    {
+      "name": "MongoDB collection 'vacunaciones' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "vacunaciones",
+        "actual_count": 16,
+        "minimum_expected": 16
+      }
+    },
+    {
+      "name": "MongoDB collection 'cirugias' has enough records",
+      "passed": true,
+      "details": {
+        "collection": "cirugias",
+        "actual_count": 10,
+        "minimum_expected": 10
+      }
+    },
+    {
+      "name": "Redis stock index has enough products",
+      "passed": true,
+      "details": {
+        "actual_count": 16,
+        "minimum_expected": 16
+      }
+    },
+    {
+      "name": "Redis low-stock query returns at least one product",
+      "passed": true,
+      "details": {
+        "low_stock_count": 8
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_01_pacientes_activos.json",
+      "passed": true,
+      "details": {
+        "filename": "service_01_pacientes_activos.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_02_consultas_seguimiento.json",
+      "passed": true,
+      "details": {
+        "filename": "service_02_consultas_seguimiento.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_03_historial_paciente.json",
+      "passed": true,
+      "details": {
+        "filename": "service_03_historial_paciente.json",
+        "type": "dict"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_04_propietarios_multiples_pacientes.json",
+      "passed": true,
+      "details": {
+        "filename": "service_04_propietarios_multiples_pacientes.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_05_veterinarios_consultas_60_dias.json",
+      "passed": true,
+      "details": {
+        "filename": "service_05_veterinarios_consultas_60_dias.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_06_vacunas_vencidas.json",
+      "passed": true,
+      "details": {
+        "filename": "service_06_vacunas_vencidas.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_07_top_diagnosticos.json",
+      "passed": true,
+      "details": {
+        "filename": "service_07_top_diagnosticos.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_08_stock_bajo.json",
+      "passed": true,
+      "details": {
+        "filename": "service_08_stock_bajo.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_09_controles_bajo_costo.json",
+      "passed": true,
+      "details": {
+        "filename": "service_09_controles_bajo_costo.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_10_pacientes_por_sucursal.json",
+      "passed": true,
+      "details": {
+        "filename": "service_10_pacientes_por_sucursal.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_11_ingresos_mes_actual.json",
+      "passed": true,
+      "details": {
+        "filename": "service_11_ingresos_mes_actual.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_12_propietarios_sin_consultas_anio.json",
+      "passed": true,
+      "details": {
+        "filename": "service_12_propietarios_sin_consultas_anio.json",
+        "type": "list"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_13_abm_propietarios.json",
+      "passed": true,
+      "details": {
+        "filename": "service_13_abm_propietarios.json",
+        "type": "dict"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_14_registrar_consulta.json",
+      "passed": true,
+      "details": {
+        "filename": "service_14_registrar_consulta.json",
+        "type": "dict"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: service_15_actualizar_stock.json",
+      "passed": true,
+      "details": {
+        "filename": "service_15_actualizar_stock.json",
+        "type": "dict"
+      }
+    },
+    {
+      "name": "Output file exists and is non-empty: run_summary.json",
+      "passed": true,
+      "details": {
+        "filename": "run_summary.json",
+        "type": "dict"
+      }
+    },
+    {
+      "name": "Run summary includes 15 services",
+      "passed": true,
+      "details": {
+        "total_services": 15
+      }
+    },
+    {
+      "name": "All 15 services completed successfully",
+      "passed": true,
+      "details": {
+        "successful_services": 15,
+        "failed_services": 0
+      }
+    },
+    {
+      "name": "There are consultations in Seguimiento state",
+      "passed": true,
+      "details": {
+        "seguimiento_count": 6
+      }
+    },
+    {
+      "name": "There are Control consultations under 5000",
+      "passed": true,
+      "details": {
+        "controles_baratos_count": 8
+      }
+    },
+    {
+      "name": "There are owners with more than one patient",
+      "passed": true,
+      "details": {
+        "owners_with_multiple_patients": 4
+      }
+    },
+    {
+      "name": "There are consultations with diagnosis values",
+      "passed": true,
+      "details": {
+        "consultas_con_diagnostico": 19
+      }
+    }
+  ]
+}

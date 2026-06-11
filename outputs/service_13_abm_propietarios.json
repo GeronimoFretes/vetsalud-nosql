@@ -1,0 +1,44 @@
+{
+  "alta": {
+    "id_propietario": "PABM001",
+    "nombre": "Laura",
+    "apellido": "Gimenez",
+    "dni": "45999111",
+    "email": "laura.gimenez@email.com",
+    "telefono": "1122223333",
+    "ciudad": "CABA",
+    "provincia": "Buenos Aires",
+    "activo": true,
+    "fecha_alta": "2026-06-11T07:23:28.706000",
+    "fecha_actualizacion": null,
+    "fecha_baja": null
+  },
+  "modificacion": {
+    "id_propietario": "PABM001",
+    "nombre": "Laura",
+    "apellido": "Gimenez",
+    "dni": "45999111",
+    "email": "laura.gimenez.actualizado@email.com",
+    "telefono": "1199998888",
+    "ciudad": "Vicente Lopez",
+    "provincia": "Buenos Aires",
+    "activo": true,
+    "fecha_alta": "2026-06-11T07:23:28.706000",
+    "fecha_actualizacion": "2026-06-11T07:23:28.716000",
+    "fecha_baja": null
+  },
+  "baja_logica": {
+    "id_propietario": "PABM001",
+    "nombre": "Laura",
+    "apellido": "Gimenez",
+    "dni": "45999111",
+    "email": "laura.gimenez.actualizado@email.com",
+    "telefono": "1199998888",
+    "ciudad": "Vicente Lopez",
+    "provincia": "Buenos Aires",
+    "activo": false,
+    "fecha_alta": "2026-06-11T07:23:28.706000",
+    "fecha_actualizacion": "2026-06-11T07:23:28.726000",
+    "fecha_baja": "2026-06-11T07:23:28.726000"
+  }
+}

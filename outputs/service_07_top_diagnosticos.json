@@ -1,0 +1,22 @@
+[
+  {
+    "cantidad_consultas": 5,
+    "diagnostico": "Sano"
+  },
+  {
+    "cantidad_consultas": 3,
+    "diagnostico": "Gastritis"
+  },
+  {
+    "cantidad_consultas": 2,
+    "diagnostico": "Dermatitis"
+  },
+  {
+    "cantidad_consultas": 1,
+    "diagnostico": "Dermatitis atópica"
+  },
+  {
+    "cantidad_consultas": 1,
+    "diagnostico": "Eccema"
+  }
+]

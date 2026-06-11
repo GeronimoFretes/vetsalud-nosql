@@ -1,0 +1,144 @@
+{
+  "run_started_at": "2026-06-11T07:23:21.015924",
+  "run_finished_at": "2026-06-11T07:23:30.474114",
+  "total_services": 15,
+  "successful_services": 15,
+  "failed_services": 0,
+  "services": [
+    {
+      "service_number": 1,
+      "description": "Pacientes activos con datos de propietario",
+      "module": "src.services.service_01_pacientes_activos",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:21.016019",
+      "finished_at": "2026-06-11T07:23:21.650003"
+    },
+    {
+      "service_number": 2,
+      "description": "Consultas en seguimiento con veterinario asignado y costo",
+      "module": "src.services.service_02_consultas_seguimiento",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:21.650148",
+      "finished_at": "2026-06-11T07:23:22.276845"
+    },
+    {
+      "service_number": 3,
+      "description": "Historial completo de paciente",
+      "module": "src.services.service_03_historial_paciente",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:22.276927",
+      "finished_at": "2026-06-11T07:23:22.900386"
+    },
+    {
+      "service_number": 4,
+      "description": "Propietarios con más de un paciente",
+      "module": "src.services.service_04_propietarios_multiples_pacientes",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:22.900475",
+      "finished_at": "2026-06-11T07:23:23.549295"
+    },
+    {
+      "service_number": 5,
+      "description": "Veterinarios activos y consultas en últimos 60 días",
+      "module": "src.services.service_05_veterinarios_consultas_60_dias",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:23.549456",
+      "finished_at": "2026-06-11T07:23:24.173753"
+    },
+    {
+      "service_number": 6,
+      "description": "Pacientes con vacunas vencidas",
+      "module": "src.services.service_06_vacunas_vencidas",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:24.173835",
+      "finished_at": "2026-06-11T07:23:24.832066"
+    },
+    {
+      "service_number": 7,
+      "description": "Top 5 diagnósticos más frecuentes",
+      "module": "src.services.service_07_top_diagnosticos",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:24.832159",
+      "finished_at": "2026-06-11T07:23:25.457561"
+    },
+    {
+      "service_number": 8,
+      "description": "Stock menor a 50 unidades con proveedor",
+      "module": "src.services.service_08_stock_bajo",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:25.457756",
+      "finished_at": "2026-06-11T07:23:26.034045"
+    },
+    {
+      "service_number": 9,
+      "description": "Consultas Control con costo menor a 5000",
+      "module": "src.services.service_09_controles_bajo_costo",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:26.034158",
+      "finished_at": "2026-06-11T07:23:26.679835"
+    },
+    {
+      "service_number": 10,
+      "description": "Pacientes por sucursal a través del veterinario",
+      "module": "src.services.service_10_pacientes_por_sucursal",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:26.680260",
+      "finished_at": "2026-06-11T07:23:27.318856"
+    },
+    {
+      "service_number": 11,
+      "description": "Ingresos totales por veterinario en el mes actual",
+      "module": "src.services.service_11_ingresos_mes_actual",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:27.318943",
+      "finished_at": "2026-06-11T07:23:27.961664"
+    },
+    {
+      "service_number": 12,
+      "description": "Propietarios sin consultas en el último año",
+      "module": "src.services.service_12_propietarios_sin_consultas_anio",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:27.961796",
+      "finished_at": "2026-06-11T07:23:28.590616"
+    },
+    {
+      "service_number": 13,
+      "description": "ABM completo de propietarios",
+      "module": "src.services.service_13_abm_propietarios",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:28.590704",
+      "finished_at": "2026-06-11T07:23:29.244786"
+    },
+    {
+      "service_number": 14,
+      "description": "Registro de nueva consulta con validación",
+      "module": "src.services.service_14_registrar_consulta",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:29.244872",
+      "finished_at": "2026-06-11T07:23:29.922312"
+    },
+    {
+      "service_number": 15,
+      "description": "Actualización masiva de stock tras consulta",
+      "module": "src.services.service_15_actualizar_stock",
+      "status": "ok",
+      "error": null,
+      "started_at": "2026-06-11T07:23:29.922660",
+      "finished_at": "2026-06-11T07:23:30.474095"
+    }
+  ]
+}

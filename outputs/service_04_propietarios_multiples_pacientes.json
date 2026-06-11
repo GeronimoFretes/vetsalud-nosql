@@ -1,0 +1,122 @@
+[
+  {
+    "cantidad_pacientes": 2,
+    "pacientes": [
+      {
+        "id_paciente": "P001",
+        "nombre": "Firulais",
+        "especie": "Perro",
+        "raza": "Labrador",
+        "activo": true
+      },
+      {
+        "id_paciente": "P003",
+        "nombre": "Coco",
+        "especie": "Perro",
+        "raza": "Beagle",
+        "activo": false
+      }
+    ],
+    "propietario": {
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "dni": "30456789",
+      "email": "ana@gmail.com",
+      "telefono": "1145001234",
+      "ciudad": "Buenos Aires",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "id_propietario": "C001"
+  },
+  {
+    "cantidad_pacientes": 2,
+    "pacientes": [
+      {
+        "id_paciente": "P002",
+        "nombre": "Michi",
+        "especie": "Gato",
+        "raza": "Siamés",
+        "activo": true
+      },
+      {
+        "id_paciente": "P007",
+        "nombre": "Pipo",
+        "especie": "Perro",
+        "raza": "Poodle",
+        "activo": true
+      }
+    ],
+    "propietario": {
+      "nombre": "Roberto",
+      "apellido": "Díaz",
+      "dni": "27654321",
+      "email": "rob@gmail.com",
+      "telefono": "1156002345",
+      "ciudad": "Rosario",
+      "provincia": "Santa Fe",
+      "activo": true
+    },
+    "id_propietario": "C002"
+  },
+  {
+    "cantidad_pacientes": 2,
+    "pacientes": [
+      {
+        "id_paciente": "PEX001",
+        "nombre": "Mora",
+        "especie": "Perro",
+        "raza": "Labrador",
+        "activo": true
+      },
+      {
+        "id_paciente": "PEX002",
+        "nombre": "Tango",
+        "especie": "Perro",
+        "raza": "Caniche",
+        "activo": true
+      }
+    ],
+    "propietario": {
+      "nombre": "Lucia",
+      "apellido": "Benitez",
+      "dni": "40111222",
+      "email": "lucia.benitez@email.com",
+      "telefono": "1122334455",
+      "ciudad": "CABA",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "id_propietario": "PRA001"
+  },
+  {
+    "cantidad_pacientes": 2,
+    "pacientes": [
+      {
+        "id_paciente": "PEX004",
+        "nombre": "Roco",
+        "especie": "Perro",
+        "raza": "Bulldog",
+        "activo": true
+      },
+      {
+        "id_paciente": "PEX005",
+        "nombre": "Nina",
+        "especie": "Gato",
+        "raza": "Europeo comun",
+        "activo": true
+      }
+    ],
+    "propietario": {
+      "nombre": "Carolina",
+      "apellido": "Mendez",
+      "dni": "37123456",
+      "email": "carolina.mendez@email.com",
+      "telefono": "1144556677",
+      "ciudad": "Tigre",
+      "provincia": "Buenos Aires",
+      "activo": true
+    },
+    "id_propietario": "PRA003"
+  }
+]

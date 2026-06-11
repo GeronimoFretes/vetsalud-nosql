@@ -1,0 +1,30 @@
+{
+  "consulta_registrada": {
+    "id_consulta": "CNUEVA001",
+    "id_paciente": "PEX001",
+    "id_vet": "VEX001",
+    "fecha": "2026-06-11T07:23:29.401000",
+    "motivo": "Control general por registro de nueva consulta",
+    "tipo_consulta": "Control",
+    "diagnostico": "Sano",
+    "costo": 4500.0,
+    "estado": "Cerrada",
+    "fecha_registro": "2026-06-11T07:23:29.407000"
+  },
+  "paciente_validado": {
+    "id_paciente": "PEX001",
+    "nombre": "Mora",
+    "especie": "Perro",
+    "raza": "Labrador",
+    "activo": true
+  },
+  "veterinario_validado": {
+    "id_vet": "VEX001",
+    "nombre": "Ana",
+    "apellido": "Pereyra",
+    "matricula": "MN9001",
+    "especialidad": "Clinica general",
+    "sucursal": "Palermo",
+    "activo": true
+  }
+}
