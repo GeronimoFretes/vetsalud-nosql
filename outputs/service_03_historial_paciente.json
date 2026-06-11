@@ -11,15 +11,15 @@
   "historial": [
     {
       "tipo_evento": "vacunacion",
-      "fecha": "2025-05-07T07:23:19.877000",
+      "fecha": "2025-05-07T07:43:21.696000",
       "id_vacuna": "VAX001",
       "id_vet": "VEX005",
       "nombre_vacuna": "Antirrabica",
-      "proxima_dosis": "2026-05-12T07:23:19.877000"
+      "proxima_dosis": "2026-05-12T07:43:21.696000"
     },
     {
       "tipo_evento": "consulta",
-      "fecha": "2026-06-01T07:23:19.877000",
+      "fecha": "2026-06-01T07:43:21.696000",
       "id_consulta": "CEX001",
       "id_vet": "VEX001",
       "motivo": "Control general",

@@ -3,8 +3,12 @@
 # Sistema de Gestión de Clínica Veterinaria VetSalud
 
 **Materia:** Bases de Datos II
+
 **Proyecto:** Sistema de Gestión de Clínica Veterinaria 
+
 **Repositorio:** https://github.com/GeronimoFretes/vetsalud-nosql
+
+**Integrantes:** Federico Saroka, Ian Erlij, Geronimo Fretes
 
 ---
 
@@ -49,13 +53,7 @@ La decisión busca asignar cada parte del dominio al motor que mejor responde a 
 
 ### 3.1. MongoDB
 
-MongoDB fue elegido como motor principal porque el dominio clínico de VetSalud contiene entidades con estructura flexible y relaciones frecuentes entre documentos. Las consultas requeridas combinan pacientes, propietarios, veterinarios, consultas y vacunaciones. Para resolverlas se utilizan operaciones de filtrado, agregación y `$lookup`.
-
-Se eligió un modelo principalmente referenciado. Por ejemplo, cada paciente guarda el `id_propietario`, cada consulta guarda el `id_paciente` y el `id_vet`, y cada vacunación guarda el paciente y el veterinario asociados.
-
-Esta decisión evita duplicar información sensible o mutable. Por ejemplo, si los datos de un propietario cambian, se actualiza un único documento en la colección `propietarios`. Esto es especialmente importante porque el trabajo exige un ABM completo de propietarios con modificación de datos y baja lógica.
-
-Se descartó un modelo fuertemente embebido porque habría generado duplicación de propietarios, veterinarios o historias clínicas dentro de otros documentos. Aunque el embedding puede ser útil cuando los datos se consultan siempre juntos, en este caso las entidades también se consultan de forma independiente.
+0
 
 ### 3.2. Redis
 

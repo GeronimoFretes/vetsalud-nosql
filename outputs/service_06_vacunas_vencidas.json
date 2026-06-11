@@ -1,9 +1,9 @@
 [
   {
     "id_vacuna": "VAX009",
-    "fecha_aplicacion": "2024-10-19T07:23:19.877000",
+    "fecha_aplicacion": "2024-10-19T07:43:21.696000",
     "nombre_vacuna": "Antirrabica",
-    "proxima_dosis": "2025-10-14T07:23:19.877000",
+    "proxima_dosis": "2025-10-14T07:43:21.696000",
     "paciente": {
       "id_paciente": "PEX009",
       "nombre": "Olivia",
@@ -21,9 +21,9 @@
   },
   {
     "id_vacuna": "VAX003",
-    "fecha_aplicacion": "2025-01-27T07:23:19.877000",
+    "fecha_aplicacion": "2025-01-27T07:43:21.696000",
     "nombre_vacuna": "Triple felina",
-    "proxima_dosis": "2026-02-11T07:23:19.877000",
+    "proxima_dosis": "2026-02-11T07:43:21.696000",
     "paciente": {
       "id_paciente": "PEX003",
       "nombre": "Luna",
@@ -41,9 +41,9 @@
   },
   {
     "id_vacuna": "VAX007",
-    "fecha_aplicacion": "2025-04-07T07:23:19.877000",
+    "fecha_aplicacion": "2025-04-07T07:43:21.696000",
     "nombre_vacuna": "Antirrabica",
-    "proxima_dosis": "2026-04-12T07:23:19.877000",
+    "proxima_dosis": "2026-04-12T07:43:21.696000",
     "paciente": {
       "id_paciente": "PEX007",
       "nombre": "Simba",
@@ -61,9 +61,9 @@
   },
   {
     "id_vacuna": "VAX001",
-    "fecha_aplicacion": "2025-05-07T07:23:19.877000",
+    "fecha_aplicacion": "2025-05-07T07:43:21.696000",
     "nombre_vacuna": "Antirrabica",
-    "proxima_dosis": "2026-05-12T07:23:19.877000",
+    "proxima_dosis": "2026-05-12T07:43:21.696000",
     "paciente": {
       "id_paciente": "PEX001",
       "nombre": "Mora",
@@ -81,9 +81,9 @@
   },
   {
     "id_vacuna": "VAX005",
-    "fecha_aplicacion": "2025-06-06T07:23:19.877000",
+    "fecha_aplicacion": "2025-06-06T07:43:21.696000",
     "nombre_vacuna": "Triple felina",
-    "proxima_dosis": "2026-06-06T07:23:19.877000",
+    "proxima_dosis": "2026-06-06T07:43:21.696000",
     "paciente": {
       "id_paciente": "PEX005",
       "nombre": "Nina",

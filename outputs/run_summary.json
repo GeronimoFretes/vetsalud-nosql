@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-06-11T07:23:21.015924",
-  "run_finished_at": "2026-06-11T07:23:30.474114",
+  "run_started_at": "2026-06-11T07:43:22.884748",
+  "run_finished_at": "2026-06-11T07:43:32.738047",
   "total_services": 15,
   "successful_services": 15,
   "failed_services": 0,
@@ -11,8 +11,8 @@
       "module": "src.services.service_01_pacientes_activos",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:21.016019",
-      "finished_at": "2026-06-11T07:23:21.650003"
+      "started_at": "2026-06-11T07:43:22.884850",
+      "finished_at": "2026-06-11T07:43:23.516112"
     },
     {
       "service_number": 2,
@@ -20,8 +20,8 @@
       "module": "src.services.service_02_consultas_seguimiento",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:21.650148",
-      "finished_at": "2026-06-11T07:23:22.276845"
+      "started_at": "2026-06-11T07:43:23.516205",
+      "finished_at": "2026-06-11T07:43:24.153569"
     },
     {
       "service_number": 3,
@@ -29,8 +29,8 @@
       "module": "src.services.service_03_historial_paciente",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:22.276927",
-      "finished_at": "2026-06-11T07:23:22.900386"
+      "started_at": "2026-06-11T07:43:24.153683",
+      "finished_at": "2026-06-11T07:43:24.821173"
     },
     {
       "service_number": 4,
@@ -38,8 +38,8 @@
       "module": "src.services.service_04_propietarios_multiples_pacientes",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:22.900475",
-      "finished_at": "2026-06-11T07:23:23.549295"
+      "started_at": "2026-06-11T07:43:24.824541",
+      "finished_at": "2026-06-11T07:43:25.465407"
     },
     {
       "service_number": 5,
@@ -47,8 +47,8 @@
       "module": "src.services.service_05_veterinarios_consultas_60_dias",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:23.549456",
-      "finished_at": "2026-06-11T07:23:24.173753"
+      "started_at": "2026-06-11T07:43:25.465526",
+      "finished_at": "2026-06-11T07:43:26.101464"
     },
     {
       "service_number": 6,
@@ -56,8 +56,8 @@
       "module": "src.services.service_06_vacunas_vencidas",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:24.173835",
-      "finished_at": "2026-06-11T07:23:24.832066"
+      "started_at": "2026-06-11T07:43:26.101684",
+      "finished_at": "2026-06-11T07:43:26.740440"
     },
     {
       "service_number": 7,
@@ -65,8 +65,8 @@
       "module": "src.services.service_07_top_diagnosticos",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:24.832159",
-      "finished_at": "2026-06-11T07:23:25.457561"
+      "started_at": "2026-06-11T07:43:26.740535",
+      "finished_at": "2026-06-11T07:43:27.380165"
     },
     {
       "service_number": 8,
@@ -74,8 +74,8 @@
       "module": "src.services.service_08_stock_bajo",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:25.457756",
-      "finished_at": "2026-06-11T07:23:26.034045"
+      "started_at": "2026-06-11T07:43:27.380260",
+      "finished_at": "2026-06-11T07:43:28.061091"
     },
     {
       "service_number": 9,
@@ -83,8 +83,8 @@
       "module": "src.services.service_09_controles_bajo_costo",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:26.034158",
-      "finished_at": "2026-06-11T07:23:26.679835"
+      "started_at": "2026-06-11T07:43:28.061186",
+      "finished_at": "2026-06-11T07:43:28.843170"
     },
     {
       "service_number": 10,
@@ -92,8 +92,8 @@
       "module": "src.services.service_10_pacientes_por_sucursal",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:26.680260",
-      "finished_at": "2026-06-11T07:23:27.318856"
+      "started_at": "2026-06-11T07:43:28.843277",
+      "finished_at": "2026-06-11T07:43:29.477840"
     },
     {
       "service_number": 11,
@@ -101,8 +101,8 @@
       "module": "src.services.service_11_ingresos_mes_actual",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:27.318943",
-      "finished_at": "2026-06-11T07:23:27.961664"
+      "started_at": "2026-06-11T07:43:29.477933",
+      "finished_at": "2026-06-11T07:43:30.164396"
     },
     {
       "service_number": 12,
@@ -110,8 +110,8 @@
       "module": "src.services.service_12_propietarios_sin_consultas_anio",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:27.961796",
-      "finished_at": "2026-06-11T07:23:28.590616"
+      "started_at": "2026-06-11T07:43:30.164490",
+      "finished_at": "2026-06-11T07:43:30.827780"
     },
     {
       "service_number": 13,
@@ -119,8 +119,8 @@
       "module": "src.services.service_13_abm_propietarios",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:28.590704",
-      "finished_at": "2026-06-11T07:23:29.244786"
+      "started_at": "2026-06-11T07:43:30.827903",
+      "finished_at": "2026-06-11T07:43:31.511895"
     },
     {
       "service_number": 14,
@@ -128,8 +128,8 @@
       "module": "src.services.service_14_registrar_consulta",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:29.244872",
-      "finished_at": "2026-06-11T07:23:29.922312"
+      "started_at": "2026-06-11T07:43:31.511987",
+      "finished_at": "2026-06-11T07:43:32.190223"
     },
     {
       "service_number": 15,
@@ -137,8 +137,8 @@
       "module": "src.services.service_15_actualizar_stock",
       "status": "ok",
       "error": null,
-      "started_at": "2026-06-11T07:23:29.922660",
-      "finished_at": "2026-06-11T07:23:30.474095"
+      "started_at": "2026-06-11T07:43:32.190322",
+      "finished_at": "2026-06-11T07:43:32.738028"
     }
   ]
 }

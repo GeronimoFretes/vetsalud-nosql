@@ -3,13 +3,13 @@
     "id_consulta": "CNUEVA001",
     "id_paciente": "PEX001",
     "id_vet": "VEX001",
-    "fecha": "2026-06-11T07:23:29.401000",
+    "fecha": "2026-06-11T07:43:31.669000",
     "motivo": "Control general por registro de nueva consulta",
     "tipo_consulta": "Control",
     "diagnostico": "Sano",
     "costo": 4500.0,
     "estado": "Cerrada",
-    "fecha_registro": "2026-06-11T07:23:29.407000"
+    "fecha_registro": "2026-06-11T07:43:31.675000"
   },
   "paciente_validado": {
     "id_paciente": "PEX001",

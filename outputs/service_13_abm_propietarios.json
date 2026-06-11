@@ -9,7 +9,7 @@
     "ciudad": "CABA",
     "provincia": "Buenos Aires",
     "activo": true,
-    "fecha_alta": "2026-06-11T07:23:28.706000",
+    "fecha_alta": "2026-06-11T07:43:30.980000",
     "fecha_actualizacion": null,
     "fecha_baja": null
   },
@@ -23,8 +23,8 @@
     "ciudad": "Vicente Lopez",
     "provincia": "Buenos Aires",
     "activo": true,
-    "fecha_alta": "2026-06-11T07:23:28.706000",
-    "fecha_actualizacion": "2026-06-11T07:23:28.716000",
+    "fecha_alta": "2026-06-11T07:43:30.980000",
+    "fecha_actualizacion": "2026-06-11T07:43:30.990000",
     "fecha_baja": null
   },
   "baja_logica": {
@@ -37,8 +37,8 @@
     "ciudad": "Vicente Lopez",
     "provincia": "Buenos Aires",
     "activo": false,
-    "fecha_alta": "2026-06-11T07:23:28.706000",
-    "fecha_actualizacion": "2026-06-11T07:23:28.726000",
-    "fecha_baja": "2026-06-11T07:23:28.726000"
+    "fecha_alta": "2026-06-11T07:43:30.980000",
+    "fecha_actualizacion": "2026-06-11T07:43:30.995000",
+    "fecha_baja": "2026-06-11T07:43:30.995000"
   }
 }

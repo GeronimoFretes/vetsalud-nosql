@@ -1,7 +1,7 @@
 [
   {
     "id_consulta": "CEX003",
-    "fecha": "2026-06-05T07:23:19.877000",
+    "fecha": "2026-06-05T07:43:21.696000",
     "motivo": "Control cardiologico",
     "tipo_consulta": "Control",
     "diagnostico": "Soplo leve",
@@ -24,7 +24,7 @@
   },
   {
     "id_consulta": "CEX002",
-    "fecha": "2026-06-03T07:23:19.877000",
+    "fecha": "2026-06-03T07:43:21.696000",
     "motivo": "Picazon persistente",
     "tipo_consulta": "Otra",
     "diagnostico": "Dermatitis",
@@ -47,7 +47,7 @@
   },
   {
     "id_consulta": "CEX009",
-    "fecha": "2026-05-22T07:23:19.877000",
+    "fecha": "2026-05-22T07:43:21.696000",
     "motivo": "Lesion en piel",
     "tipo_consulta": "Otra",
     "diagnostico": "Dermatitis",
@@ -70,7 +70,7 @@
   },
   {
     "id_consulta": "CEX006",
-    "fecha": "2026-05-12T07:23:19.877000",
+    "fecha": "2026-05-12T07:43:21.696000",
     "motivo": "Diarrea",
     "tipo_consulta": "Otra",
     "diagnostico": "Gastritis",
